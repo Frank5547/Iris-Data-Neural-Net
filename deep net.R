@@ -1,5 +1,5 @@
 ###############################
-# Deep Learning with Keras: Multi-Layer Perceptron
+# Neural Nets with Keras
 # Francisco Javier Carrera Arias
 # 07/14/2017
 ###############################
