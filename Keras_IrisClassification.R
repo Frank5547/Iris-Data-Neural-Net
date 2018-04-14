@@ -1,5 +1,5 @@
 ###############################
-# Neural Nets with Keras
+# Neural Net with Keras
 # Francisco Javier Carrera Arias
 # 07/14/2017
 ###############################
